@@ -1,0 +1,5 @@
+#!/bin/bash
+set -e
+
+#docker daemon $DOCKER_DAEMON_ARGS
+dockerd $DOCKER_DAEMON_ARGS
